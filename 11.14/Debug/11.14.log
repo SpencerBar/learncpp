@@ -1,0 +1,7 @@
+﻿  11.14.cpp
+C:\Users\Spencer\source\repos\11.14\Vector3d.h(1,1): fatal error C1016: #if[n]def expected an identifier
+  Point3d.cpp
+C:\Users\Spencer\source\repos\11.14\Point3d.h(1,1): fatal error C1016: #if[n]def expected an identifier
+  Vector3d.cpp
+C:\Users\Spencer\source\repos\11.14\Vector3d.h(1,1): fatal error C1016: #if[n]def expected an identifier
+  Generating Code...
