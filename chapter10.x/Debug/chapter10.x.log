@@ -1,0 +1,10 @@
+﻿  chapter10.x.cpp
+C:\Users\Spencer\source\repos\chapter10.x\chapter10.x.cpp(13,28): error C2039: 'midpoint': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\numeric(23): message : see declaration of 'std'
+C:\Users\Spencer\source\repos\chapter10.x\chapter10.x.cpp(13,36): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\Spencer\source\repos\chapter10.x\chapter10.x.cpp(40,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\numeric(23): message : see declaration of 'std'
+C:\Users\Spencer\source\repos\chapter10.x\chapter10.x.cpp(40,23): error C2065: 'cout': undeclared identifier
+C:\Users\Spencer\source\repos\chapter10.x\chapter10.x.cpp(42,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\numeric(23): message : see declaration of 'std'
+C:\Users\Spencer\source\repos\chapter10.x\chapter10.x.cpp(42,23): error C2065: 'cout': undeclared identifier
